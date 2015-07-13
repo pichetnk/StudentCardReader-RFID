@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+      
+  </configSections>
+  <appSettings>
+    <add key="port" value="6" />
+    <add key="baud" value="9600" />
+    <add key="webService" value="http://student.en.kku.ac.th/webService/"/>
+  </appSettings>
+
+</configuration>
